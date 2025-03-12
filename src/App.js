@@ -1,7 +1,6 @@
 import { WaitlistProvider } from "./context/WaitlistContext";
 import WaitlistForm from "./pages/WaitlistForm";
 import WaitlistDisplay from "./pages/WaitlistDisplay";
-import RealTimeWaitlistSimulator from "./pages/RealTimeWaitlistSimulator";
 import { Box } from "@mui/material";
 
 const App = () => (
